@@ -1,4 +1,4 @@
-## Hello, G͞͡l̷o͟͜b̸e͜ 👋 My name is Jean
+# Hello, G͞͡l̷o͟͜b̸e͜ 👋 My name is Jean
 
 `Back-End Developer, Artist and Game Dev`
 
@@ -6,7 +6,7 @@ I've been learning Programming and Design, and I've had a curiosity about our wo
  
 ---
 
-### 𝓚𝓷𝓸𝓵𝓮𝓭𝓰𝓮 🧙‍♂️📜
+## 𝓚𝓷𝓸𝓵𝓮𝓭𝓰𝓮 🧙‍♂️📜
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -18,9 +18,25 @@ I've been learning Programming and Design, and I've had a curiosity about our wo
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+### Personal Studies 📘
+
+#### 🗣️ **Languages**
+
+> 🇺🇸 **English**  
+> 🇩🇪 **German**   
+> 🤟 **ASL (American Sign Language)**  
+> 🤚 **Libras (Brazilian Sign Language)**
+
+#### 🎨 **Specific Arts**
+
+> 🎮 **Pixel Art**  
+> 🖥️ **Digital Art**  
+> 🏗️ **3D Modelling**  
+> 📽️ **Animation**
+
 ---
 
-### **𝒢𝒾𝓉𝐻𝓊𝒷 𝒮𝓉𝒶𝓉𝓈** ⚔️🛡️
+## **𝒢𝒾𝓉𝐻𝓊𝒷 𝒮𝓉𝒶𝓉𝓈** ⚔️🛡️
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JehanLuk&show_icons=true&count_private=true&hide=prs&theme=radical)
 
