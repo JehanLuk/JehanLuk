@@ -37,7 +37,7 @@ I've been learning Programming and Design, and I've had a curiosity about our wo
 
 ---
 
-## **𝒢𝒾𝓉𝐻𝓊𝒷 𝒮𝓉𝒶𝓉𝓈** ⚔️🛡️
+## **𝓖𝓲𝓽𝓱𝓾𝓫 𝓢𝓽𝓪𝓽𝓼** ⚔️🛡️
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JehanLuk&show_icons=true&count_private=true&hide=prs&theme=radical)
 
