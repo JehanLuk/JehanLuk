@@ -2,11 +2,11 @@
 
 `Back-End Developer, Artist and Game Dev`
 
-I've been learning Programming and Design, and I've had a curiosity about our world since childhood. During those years, I came in touch with this G͞͡l̷o͟͜b̸e of INTERNET TECHNOLOGY, which made a huge positive impression on my life. Now, I'm eager to learn more and become a successful professional!
+Estudante e entusiasta de tecnologias Front-End, Back-End, Embedded Systems (Sistemas Embarcados) e Inteligência Artificial, explorando desde o desenvolvimento de interfaces e arquiteturas de software até o uso de redes neurais e aprendizado de máquina em aplicações práticas.
  
 ---
 
-## 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 🧙‍♂️📜
+## Knowledge 🧙‍♂️📜
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
