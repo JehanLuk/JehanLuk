@@ -39,7 +39,7 @@ Estudante e entusiasta de tecnologias Front-End, Back-End, Embedded Systems (Sis
 
 ---
 
-## **𝓖𝓲𝓽𝓱𝓾𝓫 𝓢𝓽𝓪𝓽𝓼** ⚔️🛡️
+## **Github Stats** 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JehanLuk&show_icons=true&count_private=true&hide=prs&theme=radical)
 
