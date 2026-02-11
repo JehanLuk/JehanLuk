@@ -38,12 +38,3 @@ Estudante e entusiasta de tecnologias Front-End, Back-End, Embedded Systems (Sis
 > 🖥️ **Digital Art**  
 > 🏗️ **3D Modelling**  
 > 📽️ **Animation**
-
----
-
-## GitHub Stats
-
-![Commits](https://img.shields.io/github/commit-activity/y/JehanLuk?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/JehanLuk?style=for-the-badge)
-
-
