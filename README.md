@@ -43,7 +43,5 @@ Estudante e entusiasta de tecnologias Front-End, Back-End, Embedded Systems (Sis
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JehanLuk&show_icons=true&theme=radical&include_all_commits=true&hide_rank=true)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JehanLuk&layout=compact&theme=radical&langs_count=8)
+![Metrics](https://metrics.lecoq.io/JehanLuk?template=classic&languages=1&isocalendar=1)
 
