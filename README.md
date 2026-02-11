@@ -43,5 +43,7 @@ Estudante e entusiasta de tecnologias Front-End, Back-End, Embedded Systems (Sis
 
 ## GitHub Stats
 
-![Metrics](https://metrics.lecoq.io/JehanLuk?template=classic&languages=1&isocalendar=1)
+![Commits](https://img.shields.io/github/commit-activity/y/JehanLuk?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/JehanLuk?style=for-the-badge)
+
 
