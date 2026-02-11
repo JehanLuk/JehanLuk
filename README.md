@@ -23,9 +23,9 @@ Estudante e entusiasta de tecnologias Front-End, Back-End, Embedded Systems (Sis
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### Personal Studies 📘
+### Personal Studies
 
-#### 🗣️ **Languages**
+#### **Languages**
 
 > 🇺🇸 **English**  
 > 🇩🇪 **German**   
@@ -41,9 +41,9 @@ Estudante e entusiasta de tecnologias Front-End, Back-End, Embedded Systems (Sis
 
 ---
 
-## GitHub Stats 📊
+## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JehanLuk&show_icons=true&theme=radical&include_all_commits=true&hide_rank=true&cache_seconds=21600)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JehanLuk&show_icons=true&theme=radical&include_all_commits=true&hide_rank=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JehanLuk&layout=compact&theme=radical&langs_count=8&cache_seconds=21600)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JehanLuk&layout=compact&theme=radical&langs_count=8)
 
