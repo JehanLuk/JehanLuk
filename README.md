@@ -43,6 +43,7 @@ Estudante e entusiasta de tecnologias Front-End, Back-End, Embedded Systems (Sis
 
 ## GitHub Stats 📊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JehanLuk&show_icons=true&theme=radical&include_all_commits=true&hide_rank=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JehanLuk&show_icons=true&theme=radical&include_all_commits=true&hide_rank=true&cache_seconds=21600)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JehanLuk&layout=compact&theme=radical&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JehanLuk&layout=compact&theme=radical&langs_count=8&cache_seconds=21600)
+
